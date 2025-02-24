@@ -1,10 +1,11 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fafafa,100:c7c6c6&height=120&text=%20풀%20스택%20개발자%20허민경%20입니다&animation=&fontColor=000000&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d6d6d6,100:f2f2f2&height=180&text=풀스택%20개발자%20허민경%20입니다&animation=&fontColor=5c5c5c&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
     </div>
+    
     
 
 <h3 align="center">✨ Tech Stack ✨</h3>
