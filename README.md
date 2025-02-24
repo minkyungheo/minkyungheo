@@ -1,13 +1,7 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d6d6d6,100:f2f2f2&height=180&text=풀스택%20개발자%20허민경%20입니다&animation=&fontColor=5c5c5c&fontSize=50" />
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
-    </div>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=d6d6d6&height=180&text=Min-kyung's%20Github&animation=&fontColor=716f6f&fontSize=70" />
+</div>
     
-    
-
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
