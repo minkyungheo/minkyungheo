@@ -1,6 +1,19 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=d6d6d6&height=180&text=Min-kyung's%20Github&animation=&fontColor=716f6f&fontSize=70" />
 </div>
+
+## 💡 목표
+
+<h3>"사용자에게 가치를 주는 백엔드 개발자"가 되기 위해 빠르고 안정적인 시스템 설계, 협업, 사용자 중심의 사고에 집중하고 있습니다.</h3>
+</br>
+- 안정적이고 확장 가능한 시스템을 설계합니다.</br>
+- 빠르고 직관적인 사용자 경험을 위한 성능 최적화에 집중합니다.</br>
+- 협업을 통해 사용자의 니즈를 정확히 반영합니다.</br>
+</br>
+
+📫 **Contact**  
+Email: gjalsrudf1234@gmail.coom  
+
     
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
